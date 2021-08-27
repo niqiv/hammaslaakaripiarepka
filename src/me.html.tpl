@@ -30,7 +30,6 @@
               NIKI!
             </p>
           </div>
-          {% include "FB.html" %}
         </div>
       </div>
     </div>

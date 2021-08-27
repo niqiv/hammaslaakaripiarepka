@@ -32,7 +32,11 @@ def main():
 	tpls = [i for i in os.listdir(SRC) if i.endswith('.html.tpl')]
 	for i in tpls:
 		template = templateenv.get_template(i)
-		with open(os.path.join(APP, i.replace('.html.tpl', '')), 'w') as f:
+		if i == 'index.html.tpl':
+			filename = 'index.html'
+		else:
+			filename = i.replace('.html.tpl', '')
+		with open(os.path.join(APP, filename), 'w') as f:
 			f.write(template.render()) 
 
 

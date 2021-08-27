@@ -12,22 +12,7 @@
     </script>
   </head>
   <body>
-    <header>
-      <div class="wrapper">
-        <h1 class="logo">
-          <span class="top-row">Hammaslääkäri</span
-          ><span class="bottom-row">Sari Pylvänen</span>
-        </h1>
-        <nav>
-          <ul>
-            <li><a href="/">Etusivu</a></li>
-            <li><a href="/palvelut">Palvelut</a></li>
-            <li><a href="/hinnasto">Hinnasto</a></li>
-            <li><a href="/yhteystiedot">Yhteystiedot</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+    {% include "header.html" %}
     <div>
       <div class="hero">
         <div class="wrapper">
