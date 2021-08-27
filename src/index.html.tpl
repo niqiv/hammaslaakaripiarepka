@@ -20,7 +20,7 @@
               Hammaslääkäri Pia Repka palvelee hyvien kulkuyhteyksien päässä Kontulassa lähellä metroasemaa. Vastaanotto on kodinomainen ja sydämellinen henkilökunta tarjoaa aina yksilöllistä ja laadukasta hammashoitoa.
             </p>
 
-            <h2>Pelokkaiden potilaiden suosikki<h2>
+            <h2>Pelokkaiden potilaiden suosikki</h2>
 
             <p>
               Vastaanottomme on erityisen suosittu pelokkaiden potilaiden keskuudessa. Meillä on aina aikaa keskustella jokaisen potilaan kanssa ja antaa henkilökohtaista palvelua.
