@@ -78,7 +78,7 @@
       </div>
     </div>
     
-    {% include "header.html" %}
+    {% include "footer.html" %}
 
   </body>
 </html>
