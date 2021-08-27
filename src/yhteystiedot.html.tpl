@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head lang="fi">
+    {% include "head.html" %}
+    <script>
+      function showValidations() {
+        const form = document.querySelector("form")
+        if (form) {
+          form.setAttribute("class", "validate")
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <header>
+      <div class="wrapper">
+        <h1 class="logo">
+          <span class="top-row">Hammaslääkäri</span
+          ><span class="bottom-row">Sari Pylvänen</span>
+        </h1>
+        <nav>
+          <ul>
+            <li><a href="/">Etusivu</a></li>
+            <li><a href="/palvelut">Palvelut</a></li>
+            <li><a href="/hinnasto">Hinnasto</a></li>
+            <li><a href="/yhteystiedot">Yhteystiedot</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div>
+      <div class="hero">
+        <div class="wrapper">
+          <h2>Yhteystiedot</h2>
+        </div>
+      </div>
+      <div class="wrapper">
+        <h2>Yhteystiedot</h2>
+        <p>Olemme pieni yksityinen suomalainen hammaslääkärivastaanotto.</p>
+        <p>
+          Aukioloajat pääsääntöisesti: ma 11-19, ti-pe 8-16. Ajan voi varata
+          soittamalla numeroon <a href="tel: 09 3497030">09 3497030</a>.
+        </p>
+        <p>
+          Vastaanottomme sijaisee lähellä Kontulan metroasemaa osoitteessa
+          Kontulankaari 2 A 3. Auton maksuton pysäköinti talon takana olevalla
+          isolla parkkialueella.
+        </p>
+        <p>
+          Esteetön pääsy tilavalla hissillä, joten meille on helppo tulla
+          pyörätuolilla tai rollaattorilla.
+        </p>
+        <p>
+          Palvelemme etenkin alueita Itä-Helsingissä ja Vantaalla: Kontula,
+          Kivikko, Kurkimäki, Mellunmäki, Myllypuro, Rajakylä, Länsimäki,
+          Hakunila, Hakkila, Vuosaari, Malmi, Itäkeskus, Herttoniemi, Viikki,
+          Östersundom.
+        </p>
+        <p>Tervetuloa kylähammaslääkäriin!</p>
+
+        <h2>
+          <div id="yhteydenotto"></div>
+          Jätä yhteydenottopyyntö
+        </h2>
+        <form action="#">
+          <label for="nimi">Nimi*</label>
+          <input
+            type="text"
+            id="nimi"
+            name="nimi"
+            required="required"
+            minlength="3"
+          />
+          <label for="puhelin">Puhelin*</label>
+          <input
+            type="text"
+            id="puhelin"
+            name="puhelin"
+            required="required"
+            pattern="^[0-9 \-+()]{6,20}$"
+          />
+          <label for="email">Sähköposti*</label>
+          <input type="email" id="email" name="email" required="required" />
+          <label for="viesti">Vapaamuotoinen viesti</label>
+          <textarea id="viesti" name="viesti"></textarea>
+          <div class="help">
+            Anna nimesi, puhelinnumerosi ja sähköpostiosoitteesi.
+          </div>
+          <button type="submit" onclick="showValidations()">Lähetä</button>
+        </form>
+      </div>
+    </div>
+    {% include "footer.html" %}
+  </body>
+</html>

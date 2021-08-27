@@ -29,10 +29,10 @@ def main():
 	#for f in os.listdir(APP_STATIC):
 	#	os.remove(os.path.join(APP_STATIC, f))
 
-	tpls = [i for i in os.listdir(SRC) if i.endswith('.tpl')]
+	tpls = [i for i in os.listdir(SRC) if i.endswith('.html.tpl')]
 	for i in tpls:
 		template = templateenv.get_template(i)
-		with open(os.path.join(APP, i.replace('.tpl', '')), 'w') as f:
+		with open(os.path.join(APP, i.replace('.html.tpl', '')), 'w') as f:
 			f.write(template.render()) 
 
 

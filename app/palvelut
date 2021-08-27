@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fi">
+  <head lang="fi">
+    <meta charset="utf-8" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, minimum-scale=1"
+/>
+<title>Hammaslääkäri Pia Repka</title>
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Poppins:600,800"
+/>
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css?family=Quicksand:400,500"
+/>
+<link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header>
+  <div class="wrapper">
+    <h1 class="logo">
+      <span class="top-row">Hammaslääkäri</span
+      ><span class="bottom-row">Pia Repka</span>
+    </h1>
+
+    <nav>
+      <ul>
+        <li><a href="/">Etusivu</a></li>
+        <li><a href="/me">Keitä Olemme</a></li>
+        <li><a href="/palvelut">Palvelut</a></li>
+        <li><a href="/hinnasto">Hinnasto</a></li>
+        <li><a href="/yhteystiedot">Yhteystiedot</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+    <div>
+      <div class="hero">
+        <div class="wrapper">
+          <h2>Hammaslääkäri Pia Repka</h2>
+          <p>Ihmisläheistä hammashoitoa Kontulassa</p>
+        </div>
+      </div>
+      <div class="wrapper">
+        <h2>Palvelut</h2>
+        <div class="content">
+          <div>
+            <p>
+              Hoidamme potilaita kokonaisvaltaisesti ja ihmisläheisesti
+              kuunnellen. Säännöllinen huolenpito ja huolellinen hampaiston
+              perustarkastus ovat parasta hammashoitoa. Täydentävillä
+              röntgentutkimuksilla saamme kokonaisvaltaisen kuvan hampaiston
+              tilanteesta.
+            </p>
+            <p>
+              Tarjoamme ammattitaitoista hammashoitoa modernilla ja
+              nykyaikaisella vastaanotollamme: hampaiston tarkastus,
+              hammasröntgen kuvaukset, hampaan paikkaus, hampaan juurihoito,
+              hammastulehdusten hoito, hammaskiven poisto, iensairauksien hoito,
+              hammasproteesit, purentavaivojen hoito, purentakiskojen valmistus.
+              Meille on tärkeää hyvä kivunlievitys toimenpiteiden aikana.
+              Panostamme ongelmien ennaltaehkäisyyn: kotihoidon opetus,
+              fluoraus.
+            </p>
+          </div>
+          <img
+            src="/img/taydennyskoulutusmerkki.jpg"
+            alt="Täydennyskoulutusmerkki 2018-2020"
+          />
+        </div>
+      </div>
+    </div>
+    
+    <footer class="wrapper">
+  <a class="contact" href="/yhteystiedot#yhteydenotto">Varaa aika</a>
+  <p>Hammaslääkäri Pia Repka</p>
+  <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
+  <p>
+    <a href="#">
+      Ota yhteyttä!
+    </a>
+  </p>
+  <p>Puh. <a href="tel: 09 ">09 xxxxxxx</a></p>
+</footer>
+
+  </body>
+</html>
