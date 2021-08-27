@@ -19,25 +19,12 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Quicksand:400,500"
     />
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="/static/styles.css" />
   </head>
   <body>
-    <header>
-      <div class="wrapper">
-        <h1 class="logo">
-          <span class="top-row">Hammaslääkäri</span
-          ><span class="bottom-row">Pia Repka</span>
-        </h1>
-        <nav>
-          <ul>
-            <li><a href="./index.html">Etusivu</a></li>
-            <li><a href="./me.html">Keitä Olemme</a></li>
-            <li><a href="/hinnasto">Hinnasto</a></li>
-            <li><a href="/yhteystiedot">Yhteystiedot</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+
+    {% include "header.html" %}
+    
     <div>
       <div class="hero">
         <div class="wrapper">
@@ -64,7 +51,7 @@
               Jos sinulla on flunssan oireita tai olet altistunut
               koronainfektiolle, niin olethan yhteydessä vastaanotolle
               puhelimitse
-              <a href="tel: 09 3497030">09 3497030</a>.
+              <a href="tel: 09 0000000">09 XXXXXXX</a>.
             </p>
             <p>Pesethän kätesi huolellisesti heti vastaanotolle tultuasi.</p>
             <h2>Pitkä kokemus pelkopotilaiden hoidosta</h2>
@@ -84,30 +71,14 @@
               särkyä tai turvotusta.
             </p>
           </div>
-          <iframe
-            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwww.hammaslaakarisaripylvanen.fi&tabs=timeline&width=300&height=460&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId"
-            title="Facebook-sivun aikajana"
-            width="320px"
-            height="460px"
-            style="border: none; overflow: hidden"
-            scrolling="no"
-            frameborder="0"
-            allowfullscreen="true"
-            allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
-          ></iframe>
+
+          {% include "FB.html" %}
+
         </div>
       </div>
     </div>
-    <footer class="wrapper">
-      <a class="contact" href="/yhteystiedot#yhteydenotto">Varaa aika</a>
-      <p>Hammaslääkäri Sari Pylvänen</p>
-      <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
-      <p>
-        <a href="https://www.turvaposti.fi/viesti/sari.pylvanen@fimnet.fi">
-          sari.pylvanen@fimnet.fi
-        </a>
-      </p>
-      <p>Puh. <a href="tel: 09 3497030">09 3497030</a></p>
-    </footer>
+    
+    {% include "header.html" %}
+
   </body>
 </html>

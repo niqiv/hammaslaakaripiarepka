@@ -126,7 +126,7 @@ header ul li:not(:last-child) {
 }
 
 .hero {
-  background-image: url("./koivutcrop.jpg");
+  /*background-image: url("./koivutcrop.jpg");*/
   background-position: 50% 50%;
   height: 600px;
   width: 100vw;
