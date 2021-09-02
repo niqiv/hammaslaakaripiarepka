@@ -39,14 +39,7 @@
               <li>Purentakiskojen valmistus</li>
             </ul>
             <p>
-              Tarjoamme ammattitaitoista hammashoitoa modernilla ja
-              nykyaikaisella vastaanotollamme: hampaiston tarkastus,
-              hammasröntgen kuvaukset, hampaan paikkaus, hampaan juurihoito,
-              hammastulehdusten hoito, hammaskiven poisto, iensairauksien hoito,
-              hammasproteesit, purentavaivojen hoito, purentakiskojen valmistus.
-              Meille on tärkeää hyvä kivunlievitys toimenpiteiden aikana.
-              Panostamme ongelmien ennaltaehkäisyyn: kotihoidon opetus,
-              fluoraus.
+              Haluamme tehdä hammaslääkärikäynnistäsi miellyttävän henkilökohtaisen kokemuksen. Kerro ihmeessä jo varauksen yhteydessä jännityksen tuntemuksistasi, niin suunnittelemme hammashoitosi mahdollisimman miellyttäväksi.
             </p>
           </div>
           <img
