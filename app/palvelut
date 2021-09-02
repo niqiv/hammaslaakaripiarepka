@@ -73,10 +73,6 @@
               Haluamme tehdä hammaslääkärikäynnistäsi miellyttävän henkilökohtaisen kokemuksen. Kerro ihmeessä jo varauksen yhteydessä jännityksen tuntemuksistasi, niin suunnittelemme hammashoitosi mahdollisimman miellyttäväksi.
             </p>
           </div>
-          <img
-            src="/img/taydennyskoulutusmerkki.jpg"
-            alt="Täydennyskoulutusmerkki 2018-2020"
-          />
         </div>
       </div>
     </div>
@@ -86,11 +82,11 @@
   <p>Hammaslääkäri Pia Repka</p>
   <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
   <p>
-    <a href="#">
-      Ota yhteyttä!
+    <a href="mail: info@hammaslaakaripiarepka.fi">
+      info@hammaslaakaripiarepka.fi
     </a>
   </p>
-  <p>Puh. <a href="tel: 09 ">09 xxxxxxx</a></p>
+  <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
 </footer>
 
   </body>

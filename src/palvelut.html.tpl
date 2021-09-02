@@ -42,10 +42,6 @@
               Haluamme tehdä hammaslääkärikäynnistäsi miellyttävän henkilökohtaisen kokemuksen. Kerro ihmeessä jo varauksen yhteydessä jännityksen tuntemuksistasi, niin suunnittelemme hammashoitosi mahdollisimman miellyttäväksi.
             </p>
           </div>
-          <img
-            src="/img/taydennyskoulutusmerkki.jpg"
-            alt="Täydennyskoulutusmerkki 2018-2020"
-          />
         </div>
       </div>
     </div>

@@ -10,15 +10,14 @@
     <div>
       <div class="hero">
         <div class="wrapper">
-          <h2>Keitä Olemme</h2>
+          <h2>Keitä olemme</h2>
           {% include "varaa.html" %}
         </div>
       </div>
       <div class="wrapper">
-        <h2>Keitä Olemme</h2>
         <div class="content">
           <div>
-            <img src="" alt="Placeholder"> 
+            <img src="/" alt="Kuva henkilöstöstä"> 
           </div>
         </div>
       </div>

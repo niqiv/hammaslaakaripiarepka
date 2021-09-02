@@ -13,7 +13,6 @@
         </div>
       </div>
       <div class="wrapper">
-        <h2>Hinnasto</h2>
         <p>
           Vastaanotollamme ei veloiteta toimistomaksua. Covid-19
           suojavarustelisä 19€, jolla katetaan koronaviruspandemiasta
