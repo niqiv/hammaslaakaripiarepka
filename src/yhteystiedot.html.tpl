@@ -23,25 +23,18 @@
         <h2>Yhteystiedot</h2>
         <p>Olemme pieni yksityinen suomalainen hammaslääkärivastaanotto.</p>
         <p>
-          Aukioloajat pääsääntöisesti: ma 11-19, ti-pe 8-16. Ajan voi varata
-          soittamalla numeroon <a href="tel: 09 3497030">09 3497030</a>.
+          Aukioloajat pääsääntöisesti: ma 11-19, ti-pe 8-16. Ajan voit varata nettisivuiltamme tai soittamalla numeroon <a href="tel: 09 3498345">09 3498345</a>.
         </p>
         <p>
-          Vastaanottomme sijaisee lähellä Kontulan metroasemaa osoitteessa
-          Kontulankaari 2 A 3. Auton maksuton pysäköinti talon takana olevalla
-          isolla parkkialueella.
+          Vastaanottomme sijaisee lähellä Kontulan metroasemaa osoitteessa Kontulankaari 2 A 3. Auton maksuton pysäköinti talon takana olevalla isolla parkkialueella.
         </p>
         <p>
-          Esteetön pääsy tilavalla hissillä, joten meille on helppo tulla
-          pyörätuolilla tai rollaattorilla.
+          Vastaanotollemme on esteetön pääsy tilavalla hissillä, joten meille on helppo tulla myös pyörätuolilla tai rollaattorilla. 
         </p>
         <p>
-          Palvelemme etenkin alueita Itä-Helsingissä ja Vantaalla: Kontula,
-          Kivikko, Kurkimäki, Mellunmäki, Myllypuro, Rajakylä, Länsimäki,
-          Hakunila, Hakkila, Vuosaari, Malmi, Itäkeskus, Herttoniemi, Viikki,
-          Östersundom.
+          Palvelemme etenkin alueita Itä-Helsingissä ja Vantaalla: Kontula, Kivikko, Kurkimäki, Mellunmäki, Myllypuro, Rajakylä, Länsimäki, Hakunila, Hakkila, Vuosaari, Malmi, Itäkeskus, Herttoniemi, Viikki, Östersundom.
         </p>
-        <p>Tervetuloa kylähammaslääkäriin!</p>
+        <p>Otathan yhteyttä, olet lämpimästi tervetullut!</p>
 
         <h2>
           <div id="yhteydenotto"></div>
