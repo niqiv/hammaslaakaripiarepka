@@ -8,8 +8,8 @@
     <div>
       <div class="hero">
         <div class="wrapper">
-          <h2>Hammaslääkäri Pia Repka</h2>
-          <p></p>
+          <h2>Palvelut</h2>
+          {% include "varaa.html" %}
         </div>
       </div>
       <div class="wrapper">

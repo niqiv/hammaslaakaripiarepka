@@ -9,7 +9,7 @@
       <div class="hero">
         <div class="wrapper">
           <h2>Hammaslääkäri Pia Repka</h2>
-          <a class="contact" href="/yhteystiedot#yhteydenotto">Varaa aika</a>
+          {% include "varaa.html" %}
         </div>
       </div>
       <div class="wrapper">

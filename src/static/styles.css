@@ -220,7 +220,7 @@ footer a {
 .contact {
   display: block;
   text-align: center;
-  background: #0d2d63;
+  background: #9bdb5b;
   color: white;
   margin: 0 auto;
   margin-bottom: 36px;
@@ -348,14 +348,14 @@ label {
 
 input {
   font-size: 1em;
-  border: 1px solid #c0cbe5;
+  border: 1px solid #9bdb5b;
   border-radius: 2px;
   padding: 8px 12px;
   margin-bottom: 16px;
 }
 
 form.validate input:invalid {
-  border-color: #ea7a72;
+  border-color: #9bdb5b;
 }
 
 textarea {
@@ -377,7 +377,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   color: white;
-  background: #0d2d63;
+  background: #9bdb5b;
   border: none;
   padding: 12px 20px;
 }

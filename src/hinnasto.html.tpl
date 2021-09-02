@@ -9,6 +9,7 @@
       <div class="hero">
         <div class="wrapper">
           <h2>Hinnasto</h2>
+          {% include "varaa.html" %}
         </div>
       </div>
       <div class="wrapper">

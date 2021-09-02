@@ -10,25 +10,15 @@
     <div>
       <div class="hero">
         <div class="wrapper">
-          <h2>Hammaslääkäri Pia Repka</h2>
-          <p>Ihmisläheistä hammashoitoa Kontulassa</p>
+          <h2>Keitä Olemme</h2>
+          {% include "varaa.html" %}
         </div>
       </div>
       <div class="wrapper">
         <h2>Keitä Olemme</h2>
         <div class="content">
           <div>
-            <p>
-              PIA!
-            </p>
-
-            <p>
-              VEEERAAA!
-            </p>
-
-            <p>
-              NIKI!
-            </p>
+            <img src="" alt="Placeholder"> 
           </div>
         </div>
       </div>
