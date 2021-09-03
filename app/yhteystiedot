@@ -19,9 +19,8 @@
 <link rel="stylesheet" href="/static/popup.css" />
 
 <script
-  src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-  crossorigin="anonymous"></script>
+  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js">
+  </script>
     <script>
       function showValidations() {
         const form = document.querySelector("form")
@@ -105,16 +104,18 @@
         </form>
       </div>
     </div>
-    <footer class="wrapper">
-  <a class="contact" href="/yhteystiedot#yhteydenotto">Varaa aika</a>
-  <p>Hammaslääkäri Pia Repka</p>
-  <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
-  <p>
-    <a href="mail: info@hammaslaakaripiarepka.fi">
-      info@hammaslaakaripiarepka.fi
-    </a>
-  </p>
-  <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
+    <footer>
+  <div class="wrapper">
+    <a class="contact" href="/yhteystiedot#yhteydenotto">Varaa aika</a>
+    <p>Hammaslääkäri Pia Repka</p>
+    <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
+    <p>
+      <a href="mail: info@hammaslaakaripiarepka.fi">
+        info@hammaslaakaripiarepka.fi
+      </a>
+    </p>
+    <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
+  </div>
 </footer>
   </body>
 </html>
