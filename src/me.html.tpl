@@ -15,6 +15,7 @@
         </div>
       </div>
       <div class="wrapper">
+        <h2></h2>
         <div class="content">
           <div>
             <img src="/" alt="Kuva henkilöstöstä"> 
