@@ -17,9 +17,10 @@
       <div class="wrapper">
         <h2></h2>
         <div class="content">
-          <div>
-            <img src="/static/me.jpg" alt="Kuva henkilöstöstä"> 
-          </div>
+          <figure>
+            <img src="/static/me.jpg" class="fullwidth" alt="Kuva henkilöstöstä">
+            <figcaption>Sari, Susanna, Eve ja Pia</figcaption>
+          </figure>
         </div>
       </div>
     </div>

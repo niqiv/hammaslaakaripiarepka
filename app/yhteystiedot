@@ -24,6 +24,15 @@
           form.setAttribute("class", "validate")
         }
       }
+
+      function initMap() {
+        const loc = {lat: 60.23716545526412, lng: 25.079367579634443}
+        const map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 13,
+          center: loc,
+        });
+      }
+
     </script>
   </head>
   <body>
@@ -47,11 +56,11 @@
 </header>
     <div>
       <div class="hero">
-        <div class="wrapper">
-          <h2>Yhteystiedot</h2>
-        </div>
+        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=25.077106654644016%2C60.23637605411659%2C25.081585943698887%2C60.23762764967157&amp;layer=mapnik&amp;marker=60.237001857870425%2C25.079346299171448" style="border: 1px solid black"></iframe>
       </div>
       <div class="wrapper">
+
+        <div id="map"></div>
         <h2>Yhteystiedot</h2>
         <p>Olemme pieni yksityinen suomalainen hammaslääkärivastaanotto.</p>
         <p>

@@ -14,9 +14,9 @@
         </div>
       </div>
       <div class="wrapper">
-        <h2>Sydämellistä palvelua Itä-Helsingissä</h2>
         <div class="content">
           <div>
+            <h2>Sydämellistä palvelua Itä-Helsingissä</h2>
             <p>
               Hammaslääkäri Pia Repka palvelee hyvien kulkuyhteyksien päässä Kontulassa lähellä metroasemaa. Kodinomainen vastaanotto on moderni ja juuri uusittu. Sydämellinen henkilökunta tarjoaa aina yksilöllistä ja laadukasta hammashoitoa.
             </p>

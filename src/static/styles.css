@@ -376,3 +376,15 @@ button:hover {
 a.contact:hover {
   background: #7bb046;
 }
+
+ul ul {
+  padding-left: 18px;
+}
+
+img.fullwidth {
+  width: 100%;
+}
+
+figcaption {
+  text-align: center;
+}
