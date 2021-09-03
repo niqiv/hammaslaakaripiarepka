@@ -141,25 +141,6 @@ header ul li:not(:last-child) {
     "Segoe UI Symbol";
 }
 
-@media (max-width: 1280px) {
-  .hero {
-    background-image: url("/img/hero-1280.jpg");
-  }
-}
-
-@media (max-width: 800px) {
-  .hero {
-    background-image: url("/img/hero-800.jpg");
-    height: 400px;
-  }
-}
-
-@media (max-width: 500px) {
-  .hero {
-    background-image: url("/img/hero-500.jpg");
-    height: 300px;
-  }
-}
 
 .hero h2 {
   font-size: 2em;
