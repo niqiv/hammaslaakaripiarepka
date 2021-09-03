@@ -36,27 +36,8 @@
     
     {% include "footer.html" %}
 
-    <div class="modal-wrapper">
-      <div class="modal">
-        <div class="btn-close"></div>
-        <div class="clear"></div>
-        <div class="content">
-            Koronainfo
-        </div>
-      </div>
-    </div>
-
-    <script type="text/javascript">
-      $(document).ready(function() {
-
-        $('.modal-wrapper').addClass('open')
-
-        $('.btn-close').click(function() {
-          $('.modal-wrapper').removeClass('open')
-        });
-        
-      });
-    </script>
+    {% include "covid_info.html" %}
+  
 
   </body>
 </html>
