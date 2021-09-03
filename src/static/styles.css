@@ -180,6 +180,20 @@ header ul li:not(:last-child) {
   font-weight: 600;
 }
 
+.contact {
+  display: block;
+  text-align: center;
+  background: #9bdb5b;
+  color: white;
+  margin: 0 auto;
+  margin-bottom: 36px;
+  padding: 18px;
+  max-width: 300px;
+  font-size: 1.4em;
+  font-weight: 500;
+  text-decoration: none;
+}
+
 a {
   font-weight: 500;
   color: #0d2d63;
@@ -208,27 +222,18 @@ footer .wrapper {
   padding: 48px 24px;
 }
 
+footer .contact {
+  border: white solid 3px;
+}
+
 footer p {
   margin: 0.2em 0;
   text-align: center;
+  font-weight: 600;
 }
 
 footer a {
   font-size: 1rem;
-}
-
-.contact {
-  display: block;
-  text-align: center;
-  background: #9bdb5b;
-  color: white;
-  margin: 0 auto;
-  margin-bottom: 36px;
-  padding: 18px;
-  max-width: 300px;
-  font-size: 1.4em;
-  font-weight: 500;
-  text-decoration: none;
 }
 
 .reservation a {
@@ -380,4 +385,12 @@ button {
   background: #9bdb5b;
   border: none;
   padding: 12px 20px;
+}
+
+button:hover {
+  background: #7bb046;
+}
+
+a.contact:hover {
+  background: #7bb046;
 }

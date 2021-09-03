@@ -1,6 +1,6 @@
 import os
 import jinja2
-from shutil import copyfile
+from distutils.dir_util import copy_tree
 
 def main():
 
@@ -26,8 +26,10 @@ def main():
 	for f in os.listdir(APP):
 		if os.path.isfile(os.path.join(APP, f)):
 			os.remove(os.path.join(APP, f))
-	#for f in os.listdir(APP_STATIC):
-	#	os.remove(os.path.join(APP_STATIC, f))
+	for f in os.listdir(APP_STATIC):
+		os.remove(os.path.join(APP_STATIC, f))
+
+	copy_tree(SRC_STATIC, APP_STATIC)
 
 	tpls = [i for i in os.listdir(SRC) if i.endswith('.html.tpl')]
 	for i in tpls:
