@@ -2,6 +2,7 @@
 <html lang="fi">
   <head lang="fi">
     {% include "head.html" %}
+
   </head>
   <body>
     {% include "header.html" %}
@@ -34,6 +35,28 @@
     </div>
     
     {% include "footer.html" %}
+
+    <div class="modal-wrapper">
+      <div class="modal">
+        <div class="btn-close"></div>
+        <div class="clear"></div>
+        <div class="content">
+            Koronainfo
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+
+        $('.modal-wrapper').addClass('open')
+
+        $('.btn-close').click(function() {
+          $('.modal-wrapper').removeClass('open')
+        });
+        
+      });
+    </script>
 
   </body>
 </html>

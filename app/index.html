@@ -16,6 +16,13 @@
   href="https://fonts.googleapis.com/css?family=Quicksand:400,500"
 />
 <link rel="stylesheet" href="/static/styles.css" />
+<link rel="stylesheet" href="/static/popup.css" />
+
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+
   </head>
   <body>
     <header>
@@ -85,6 +92,28 @@
   </p>
   <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
 </footer>
+
+    <div class="modal-wrapper">
+      <div class="modal">
+        <div class="btn-close"></div>
+        <div class="clear"></div>
+        <div class="content">
+            Koronainfo
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+
+        $('.modal-wrapper').addClass('open')
+
+        $('.btn-close').click(function() {
+          $('.modal-wrapper').removeClass('open')
+        });
+        
+      });
+    </script>
 
   </body>
 </html>
