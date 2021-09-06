@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fi">
   <head lang="fi">
@@ -29,11 +30,11 @@
 
     <nav>
       <ul>
-        <li><a href="/">Etusivu</a></li>
-        <li><a href="/me">Keitä Olemme</a></li>
-        <li><a href="/palvelut">Palvelut</a></li>
-        <li><a href="/hinnasto">Hinnasto</a></li>
-        <li><a href="/yhteystiedot">Yhteystiedot</a></li>
+        <li class=""><a href="/">Etusivu</a></li>
+        <li class="active"><a href="/me">Keitä Olemme</a></li>
+        <li class=""><a href="/palvelut">Palvelut</a></li>
+        <li class=""><a href="/hinnasto">Hinnasto</a></li>
+        <li class=""><a href="/yhteystiedot">Yhteystiedot</a></li>
       </ul>
     </nav>
   </div>
@@ -59,15 +60,34 @@
 
     <footer>
   <div class="wrapper">
-    <a class="contact" href="/yhteystiedot#yhteydenotto">Varaa aika</a>
-    <p>Hammaslääkäri Pia Repka</p>
-    <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
-    <p>
-      <a href="mailto: info@hammaslaakaripiarepka.fi">
-        info@hammaslaakaripiarepka.fi
-      </a>
-    </p>
-    <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
+    <div class="content">
+
+      <div class="left">
+        <p>Hammaslääkäri Pia Repka</p>
+        <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
+        <p>
+          <a href="mailto: info@hammaslaakaripiarepka.fi">
+            info@hammaslaakaripiarepka.fi
+          </a>
+        </p>
+        <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
+      </div>
+
+      <div class="right">
+        <a href="https://www.kela.fi/" target="_blank">
+          <img class="" src="/static/kela.png">
+        </a>
+        <a href="https://www.kela.fi/" target="_blank">
+          <img class="" src="/static/luotettavakumppani.png">
+        </a>
+        <a href="https://www.kela.fi/" target="_blank">
+          <img class="" src="/static/shl_jasenlogo.jpg">
+        </a>
+        <br>
+        Hyväksytty Helsingin kaupungin palvelusetelituottaja
+      </div>
+
+    </div>
   </div>
 </footer>
     

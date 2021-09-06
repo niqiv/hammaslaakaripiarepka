@@ -7,11 +7,11 @@
 
     <nav>
       <ul>
-        <li><a href="/">Etusivu</a></li>
-        <li><a href="/me">Keitä Olemme</a></li>
-        <li><a href="/palvelut">Palvelut</a></li>
-        <li><a href="/hinnasto">Hinnasto</a></li>
-        <li><a href="/yhteystiedot">Yhteystiedot</a></li>
+        <li class="{% if page == 'index' %}active{% endif %}"><a href="/">Etusivu</a></li>
+        <li class="{% if page == 'me' %}active{% endif %}"><a href="/me">Keitä Olemme</a></li>
+        <li class="{% if page == 'palvelut' %}active{% endif %}"><a href="/palvelut">Palvelut</a></li>
+        <li class="{% if page == 'hinnasto' %}active{% endif %}"><a href="/hinnasto">Hinnasto</a></li>
+        <li class="{% if page == 'yhteystiedot' %}active{% endif %}"><a href="/yhteystiedot">Yhteystiedot</a></li>
       </ul>
     </nav>
   </div>

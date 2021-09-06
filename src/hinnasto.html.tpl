@@ -1,3 +1,4 @@
+{% with page="hinnasto" %}
 <!DOCTYPE html>
 <html lang="fi">
   <head lang="fi">
@@ -88,3 +89,4 @@
 
   </body>
 </html>
+{% endwith %}

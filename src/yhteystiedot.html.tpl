@@ -1,3 +1,4 @@
+{% with page="yhteystiedot" %}
 <!DOCTYPE html>
 <html>
   <head lang="fi">
@@ -85,3 +86,4 @@
     {% include "footer.html" %}
   </body>
 </html>
+{% endwith %}

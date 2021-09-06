@@ -1,3 +1,4 @@
+{% with page="index" %}
 <!DOCTYPE html>
 <html lang="fi">
   <head lang="fi">
@@ -28,7 +29,9 @@
             </p>
           </div>
 
-          {% include "FB.html" %}
+          <div class="sidebar">
+            {% include "FB.html" %}
+          </div>
 
         </div>
       </div>
@@ -41,3 +44,4 @@
 
   </body>
 </html>
+{% endwith %}

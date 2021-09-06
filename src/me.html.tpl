@@ -1,3 +1,4 @@
+{% with page="me" %}
 <!DOCTYPE html>
 <html lang="fi">
   <head lang="fi">
@@ -29,3 +30,4 @@
     
   </body>
 </html>
+{% endwith %}

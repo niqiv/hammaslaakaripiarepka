@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fi">
   <head lang="fi">
@@ -29,11 +30,11 @@
 
     <nav>
       <ul>
-        <li><a href="/">Etusivu</a></li>
-        <li><a href="/me">Keitä Olemme</a></li>
-        <li><a href="/palvelut">Palvelut</a></li>
-        <li><a href="/hinnasto">Hinnasto</a></li>
-        <li><a href="/yhteystiedot">Yhteystiedot</a></li>
+        <li class="active"><a href="/">Etusivu</a></li>
+        <li class=""><a href="/me">Keitä Olemme</a></li>
+        <li class=""><a href="/palvelut">Palvelut</a></li>
+        <li class=""><a href="/hinnasto">Hinnasto</a></li>
+        <li class=""><a href="/yhteystiedot">Yhteystiedot</a></li>
       </ul>
     </nav>
   </div>
@@ -60,7 +61,15 @@
             </p>
           </div>
 
-          <iframe
+          <div class="sidebar">
+            <a href="https://www.instagram.com/hammaslaakaripia/?hl=fi" target="_blank">
+  <img class="" src="/static/facebook.png">
+</a>
+<a href="https://www.facebook.com/Hammasl%C3%A4%C3%A4k%C3%A4ri-Pia-Repka-480944298767732/" target="_blank">
+  <img class="" src="/static/instagram.png">
+</a>
+
+<iframe
     src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FHammasl%25C3%25A4%25C3%25A4k%25C3%25A4ri-Pia-Repka-480944298767732%2F&tabs=timeline&width=300&height=360&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId"
     title="Facebook-sivun aikajana"
     width="320px"
@@ -71,6 +80,7 @@
     allowfullscreen="true"
     allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
     ></iframe>
+          </div>
 
         </div>
       </div>
@@ -78,15 +88,34 @@
     
     <footer>
   <div class="wrapper">
-    <a class="contact" href="/yhteystiedot#yhteydenotto">Varaa aika</a>
-    <p>Hammaslääkäri Pia Repka</p>
-    <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
-    <p>
-      <a href="mailto: info@hammaslaakaripiarepka.fi">
-        info@hammaslaakaripiarepka.fi
-      </a>
-    </p>
-    <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
+    <div class="content">
+
+      <div class="left">
+        <p>Hammaslääkäri Pia Repka</p>
+        <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
+        <p>
+          <a href="mailto: info@hammaslaakaripiarepka.fi">
+            info@hammaslaakaripiarepka.fi
+          </a>
+        </p>
+        <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
+      </div>
+
+      <div class="right">
+        <a href="https://www.kela.fi/" target="_blank">
+          <img class="" src="/static/kela.png">
+        </a>
+        <a href="https://www.kela.fi/" target="_blank">
+          <img class="" src="/static/luotettavakumppani.png">
+        </a>
+        <a href="https://www.kela.fi/" target="_blank">
+          <img class="" src="/static/shl_jasenlogo.jpg">
+        </a>
+        <br>
+        Hyväksytty Helsingin kaupungin palvelusetelituottaja
+      </div>
+
+    </div>
   </div>
 </footer>
 
