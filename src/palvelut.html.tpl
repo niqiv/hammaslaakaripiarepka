@@ -6,7 +6,7 @@
   <body>
     {% include "header.html" %}
     <div>
-      <div class="hero">
+      <div class="hero palvelut">
         <div class="wrapper">
           <h2>Palvelut</h2>
           {% include "varaa.html" %}

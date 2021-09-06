@@ -19,7 +19,7 @@
         <div class="content">
           <figure>
             <img src="/static/me.jpg" class="fullwidth" alt="Kuva henkilöstöstä">
-            <figcaption>Sari, Susanna, Eve ja Pia</figcaption>
+            <figcaption>Sari, Susa, Eve ja Pia</figcaption>
           </figure>
         </div>
       </div>

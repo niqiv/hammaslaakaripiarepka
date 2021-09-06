@@ -44,12 +44,14 @@
           Palvelemme etenkin alueita Itä-Helsingissä ja Vantaalla: Kontula, Kivikko, Kurkimäki, Mellunmäki, Myllypuro, Rajakylä, Länsimäki, Hakunila, Hakkila, Vuosaari, Malmi, Itäkeskus, Herttoniemi, Viikki, Östersundom.
         </p>
         <p>Otathan yhteyttä, olet lämpimästi tervetullut!</p>
-
+      </div>
+      
+      <div>
         <h2>
           <div id="yhteydenotto"></div>
           Jätä yhteydenottopyyntö
         </h2>
-        <form action="#">
+        <form action="https://submit-form.com/g2kVYXaA">
           <label for="nimi">Nimi*</label>
           <input
             type="text"

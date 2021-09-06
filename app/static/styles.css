@@ -141,6 +141,10 @@ header ul li:not(:last-child) {
     "Segoe UI Symbol";
 }
 
+.hero.palvelut {
+  background-image: url("/static/orto_1920.jpg");
+}
+
 
 .hero h2 {
   font-size: 2em;
@@ -169,7 +173,7 @@ header ul li:not(:last-child) {
   margin: 0 auto;
   margin-bottom: 36px;
   padding: 18px;
-  max-width: 300px;
+  width: 220px;
   font-size: 1.4em;
   font-weight: 500;
   text-decoration: none;
