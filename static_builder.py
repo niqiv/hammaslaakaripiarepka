@@ -1,4 +1,5 @@
 import os
+import sys
 import jinja2
 from distutils.dir_util import copy_tree
 
@@ -32,12 +33,18 @@ def main():
 	copy_tree(SRC_STATIC, APP_STATIC)
 
 	tpls = [i for i in os.listdir(SRC) if i.endswith('.html.tpl')]
+
+	if '--local' in sys.argv[1:]:
+		build_ext = '.html'
+	else:
+		build_ext = ''
+
 	for i in tpls:
 		template = templateenv.get_template(i)
 		if i == 'index.html.tpl':
 			filename = 'index.html'
 		else:
-			filename = i.replace('.html.tpl', '')
+			filename = i.replace('.html.tpl', build_ext)
 		with open(os.path.join(APP, filename), 'w') as f:
 			f.write(template.render()) 
 

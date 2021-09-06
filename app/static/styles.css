@@ -305,6 +305,11 @@ td.price::after {
   margin-left: 16px;
 }
 
+.content div {
+  min-width: 50%;
+  margin: 8px;
+}
+
 @media screen and (max-width: 560px) {
   .content iframe {
     margin: 0;
