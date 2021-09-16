@@ -16,8 +16,14 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  max-width: 60%;
+  max-width: 90%;
   padding: 0 16px;
+}
+
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    max-width: 60%;
+  }
 }
 
 header {
@@ -129,7 +135,7 @@ header ul li:not(:last-child) {
   background-image: url("/static/koivut_cc_1920.jpg");
   background-position: 50% 50%;
   height: 600px;
-  width: 100vw;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -297,10 +303,9 @@ td.price::after {
   align-items: flex-start;
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 768px) {
   .content {
-    flex-direction: column;
-    align-items: center;
+    flex-wrap: wrap;
   }
 }
 
@@ -310,10 +315,15 @@ td.price::after {
 }
 
 .content div.sidebar {
-  min-width: 20%;
+  min-width: 320px;
+  margin: 0 auto;
 }
 
 .sidebar {
+  text-align: center;
+}
+
+.sidebar .logo-links {
   text-align: center;
 }
 
