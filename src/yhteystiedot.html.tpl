@@ -30,11 +30,16 @@
       <div class="wrapper">
         <div class="content">
 
-          <div>
+          <div class="column">
             <h2>Yhteystiedot</h2>
             <p>Olemme pieni yksityinen suomalainen hammaslääkärivastaanotto.</p>
             <p>
-              Aukioloajat pääsääntöisesti: ma 11-19, ti-pe 8-16. Ajan voit varata nettisivuiltamme tai soittamalla numeroon <a href="tel: 09 3498345">09 3498345</a>.
+              Aukioloajat pääsääntöisesti: 
+              <ul>
+                <li>ma 11-19</li>
+                <li>ti-pe 8-16</li> 
+              </ul>
+              Ajan voit varata nettisivuiltamme tai soittamalla numeroon <a href="tel: 09 3498345">09 3498345</a>.
             </p>
             <p>
               Vastaanottomme sijaisee lähellä Kontulan metroasemaa osoitteessa Kontulankaari 2 A 3. Auton maksuton pysäköinti talon takana olevalla isolla parkkialueella.
@@ -48,7 +53,7 @@
             <p>Otathan yhteyttä, olet lämpimästi tervetullut!</p>
           </div>
 
-          <div>
+          <div class="column">
             <h2>
               <div id="yhteydenotto"></div>
               Jätä yhteydenottopyyntö

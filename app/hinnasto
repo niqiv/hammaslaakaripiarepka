@@ -134,16 +134,18 @@
 
       <div class="right">
         <a href="https://www.kela.fi/" target="_blank">
-          <img class="" src="/static/kela.png">
+          <img class="partner" src="/static/kela.png">
         </a>
-        <a href="https://www.kela.fi/" target="_blank">
-          <img class="" src="/static/luotettavakumppani.png">
+        <a href="https://www.vastuugroup.fi/fi-fi/palvelut/luotettava-kumppani" target="_blank">
+          <img class="partner" src="/static/luotettavakumppani.png">
         </a>
-        <a href="https://www.kela.fi/" target="_blank">
-          <img class="" src="/static/shl_jasenlogo.jpg">
+        <a href="https://www.hammaslaakariliitto.fi/" target="_blank">
+          <img class="partner" src="/static/shl_jasenlogo.jpg">
         </a>
         <br>
-        Hyväksytty Helsingin kaupungin palvelusetelituottaja
+        <span class="partner">
+          Hyväksytty Helsingin kaupungin palvelusetelituottaja
+        </span>
       </div>
 
     </div>
