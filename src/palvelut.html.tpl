@@ -21,6 +21,8 @@
               Tarjoamme sinulle kokonaisvaltaista ja omat tarpeesi huomioivaa hoitoa. Suun ja hampaiden hyvinvointi on tärkeä vaikuttava tekijä kokonaisterveydellesi. Sännöllinen omahoito ja hampaiston perustarkastus ovat parasta hammashoitoa, ja täydentävillä röngentutkimuksilla saamme kokonaisvaltaisen kuvan hampaistosi tilanteesta. Meille on tärkeää hyvä kivunlievitys toimenpideiden aikana. Panostamme ongelmien ennaltaehkäisyyn: kotihoidon opetukseen ja fluoraukseen.
             </p>
 
+            <img src="/static/orto.jpg" class="fullwidth" alt="Kuva henkilöstöstä">
+
             <h2>Palveluihimme kuuluvat:</h2>
 
             <ul>

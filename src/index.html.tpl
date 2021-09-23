@@ -8,7 +8,7 @@
   <body>
     {% include "header.html" %}
     <div>
-      <div class="hero">
+      <div class="hero etusivu slideshow">
         <div class="wrapper">
           <h2>Hammaslääkäri Pia Repka</h2>
           {% include "varaa.html" %}
@@ -16,7 +16,13 @@
       </div>
       <div class="wrapper">
         <div class="content">
-          <div>
+
+          <div class="sidebar column">
+            <img src="/static/pia.jpg" style="width: 100%;">
+          </div>
+          
+
+          <div class="column">
             <h2>Sydämellistä palvelua Itä-Helsingissä</h2>
             <p>
               Hammaslääkäri Pia Repka palvelee hyvien kulkuyhteyksien päässä Kontulassa lähellä metroasemaa. Kodinomainen vastaanotto on moderni ja juuri uusittu. Sydämellinen henkilökunta tarjoaa aina yksilöllistä ja laadukasta hammashoitoa.
@@ -29,7 +35,7 @@
             </p>
           </div>
 
-          <div class="sidebar">
+          <div class="sidebar column">
             {% include "FB.html" %}
           </div>
 

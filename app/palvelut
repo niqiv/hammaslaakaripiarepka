@@ -53,6 +53,8 @@
               Tarjoamme sinulle kokonaisvaltaista ja omat tarpeesi huomioivaa hoitoa. Suun ja hampaiden hyvinvointi on tärkeä vaikuttava tekijä kokonaisterveydellesi. Sännöllinen omahoito ja hampaiston perustarkastus ovat parasta hammashoitoa, ja täydentävillä röngentutkimuksilla saamme kokonaisvaltaisen kuvan hampaistosi tilanteesta. Meille on tärkeää hyvä kivunlievitys toimenpideiden aikana. Panostamme ongelmien ennaltaehkäisyyn: kotihoidon opetukseen ja fluoraukseen.
             </p>
 
+            <img src="/static/orto.jpg" class="fullwidth" alt="Kuva henkilöstöstä">
+
             <h2>Palveluihimme kuuluvat:</h2>
 
             <ul>
@@ -80,9 +82,9 @@
     </div>
     
     <footer>
-  <div class="wrapper">
-    <div class="content">
+  <div class="wrapper content">
 
+<<<<<<< Updated upstream
       <div class="left">
         <p>Hammaslääkäri Pia Repka</p>
         <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
@@ -107,8 +109,53 @@
         <br>
         Hyväksytty Helsingin kaupungin palvelusetelituottaja
       </div>
-
+=======
+    <div>
+      <p>Hammaslääkäri Pia Repka</p>
+      <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
+      <p>
+        <a href="mailto: info@hammaslaakaripiarepka.fi">
+          info@hammaslaakaripiarepka.fi
+        </a>
+      </p>
+      <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
     </div>
+>>>>>>> Stashed changes
+
+    <div class="center">
+      <a href="https://www.kela.fi/" target="_blank">
+        <img class="partner" src="/static/kela.png">
+      </a>
+    </div>
+
+    <div class="center">
+      <a href="https://www.vastuugroup.fi/fi-fi/palvelut/luotettava-kumppani" target="_blank">
+        <img class="partner" src="/static/luotettavakumppani.png">
+      </a>
+    </div>
+
+    <div class="center">
+      <a href="https://www.hammaslaakariliitto.fi/" target="_blank">
+        <img class="partner" src="/static/shl_jasenlogo.jpg">
+      </a>
+    </div>
+    
+    <div class="center">
+      <p>
+        Hyväksytty Helsingin kaupungin palvelusetelituottaja
+      </p>
+    </div>
+
+    <div class="center">
+      <a href="https://www.facebook.com/Hammasl%C3%A4%C3%A4k%C3%A4ri-Pia-Repka-480944298767732/" target="_blank">
+        <img class="" src="/static/facebook.png">
+      </a>
+      <a href="https://www.instagram.com/hammaslaakaripia/?hl=fi" target="_blank">
+        <img class="" src="/static/instagram.png">
+      </a>
+    </div>
+
+
   </div>
 </footer>
 

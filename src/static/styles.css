@@ -148,9 +148,20 @@ header ul li:not(:last-child) {
 }
 
 .hero.palvelut {
-  background-image: url("/static/orto_1920.jpg");
+  background-image: url("/static/orto_360.jpg");
 }
 
+@media screen and (min-width: 1200px) {
+  .hero {
+    height: 600px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .hero.palvelut {
+    background-image: url("/static/orto_1920.jpg");
+  }
+}
 
 .hero h2 {
   font-size: 2em;
@@ -211,7 +222,7 @@ footer {
 }
 
 footer .wrapper {
-  max-width: 80%;
+  max-width: 100%;
   padding: 48px 24px;
 }
 
@@ -229,8 +240,14 @@ footer img {
   max-width: 200px;
 }
 
+<<<<<<< Updated upstream
 footer .left {text: left;}
 footer .right {text-align: right;}
+=======
+footer .left {text-align: left; float: left;}
+footer .center {text-align: center; float: all; margin: auto;}
+footer .right {text-align: right; float: rightz;}
+>>>>>>> Stashed changes
 
 footer a {
   font-size: 1rem;
@@ -309,14 +326,24 @@ td.price::after {
   }
 }
 
+<<<<<<< Updated upstream
 .content div {
   min-width: 50%;
   margin: 8px;
+=======
+.content div.column {
+  min-width: 46%;
+  margin: 8px 2%;
+>>>>>>> Stashed changes
 }
 
 .content div.sidebar {
   min-width: 320px;
-  margin: 0 auto;
+  margin: 8px auto;
+}
+
+footer .content div {
+  width: 16.666666%;
 }
 
 .sidebar {

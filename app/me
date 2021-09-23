@@ -59,20 +59,9 @@
     </div>
 
     <footer>
-  <div class="wrapper">
-    <div class="content">
+  <div class="wrapper content">
 
-      <div class="left">
-        <p>Hammaslääkäri Pia Repka</p>
-        <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
-        <p>
-          <a href="mailto: info@hammaslaakaripiarepka.fi">
-            info@hammaslaakaripiarepka.fi
-          </a>
-        </p>
-        <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
-      </div>
-
+<<<<<<< Updated upstream
       <div class="right">
         <a href="https://www.kela.fi/" target="_blank">
           <img class="" src="/static/kela.png">
@@ -86,8 +75,53 @@
         <br>
         Hyväksytty Helsingin kaupungin palvelusetelituottaja
       </div>
-
+=======
+    <div>
+      <p>Hammaslääkäri Pia Repka</p>
+      <p>Kontulankaari 2 A 3, 00940 Helsinki</p>
+      <p>
+        <a href="mailto: info@hammaslaakaripiarepka.fi">
+          info@hammaslaakaripiarepka.fi
+        </a>
+      </p>
+      <p>Puh. <a href="tel: 09 3498345">09 3498345</a></p>
     </div>
+
+    <div class="center">
+      <a href="https://www.kela.fi/" target="_blank">
+        <img class="partner" src="/static/kela.png">
+      </a>
+    </div>
+
+    <div class="center">
+      <a href="https://www.vastuugroup.fi/fi-fi/palvelut/luotettava-kumppani" target="_blank">
+        <img class="partner" src="/static/luotettavakumppani.png">
+      </a>
+    </div>
+>>>>>>> Stashed changes
+
+    <div class="center">
+      <a href="https://www.hammaslaakariliitto.fi/" target="_blank">
+        <img class="partner" src="/static/shl_jasenlogo.jpg">
+      </a>
+    </div>
+    
+    <div class="center">
+      <p>
+        Hyväksytty Helsingin kaupungin palvelusetelituottaja
+      </p>
+    </div>
+
+    <div class="center">
+      <a href="https://www.facebook.com/Hammasl%C3%A4%C3%A4k%C3%A4ri-Pia-Repka-480944298767732/" target="_blank">
+        <img class="" src="/static/facebook.png">
+      </a>
+      <a href="https://www.instagram.com/hammaslaakaripia/?hl=fi" target="_blank">
+        <img class="" src="/static/instagram.png">
+      </a>
+    </div>
+
+
   </div>
 </footer>
     
