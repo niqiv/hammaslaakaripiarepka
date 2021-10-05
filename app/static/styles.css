@@ -240,14 +240,8 @@ footer img {
   max-width: 200px;
 }
 
-<<<<<<< Updated upstream
 footer .left {text: left;}
 footer .right {text-align: right;}
-=======
-footer .left {text-align: left; float: left;}
-footer .center {text-align: center; float: all; margin: auto;}
-footer .right {text-align: right; float: rightz;}
->>>>>>> Stashed changes
 
 footer a {
   font-size: 1rem;
@@ -326,15 +320,14 @@ td.price::after {
   }
 }
 
-<<<<<<< Updated upstream
 .content div {
   min-width: 50%;
   margin: 8px;
-=======
+}
+
 .content div.column {
   min-width: 46%;
   margin: 8px 2%;
->>>>>>> Stashed changes
 }
 
 .content div.sidebar {
