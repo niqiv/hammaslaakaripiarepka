@@ -82,13 +82,13 @@
         <div class="col-12 col-lg-6 order-1 order-lg-2">
           <h2>Sydämellistä palvelua Itä-Helsingissä</h2>
           <p>
-            Hammaslääkäri Pia Repka palvelee hyvien kulkuyhteyksien päässä Kontulassa lähellä metroasemaa. Kodinomainen vastaanotto on moderni ja juuri uusittu. Sydämellinen henkilökunta tarjoaa aina yksilöllistä ja laadukasta hammashoitoa.
+            Hammaslääkäri Pia Repka (os. Häyrynen) palvelee hyvien kulkuyhteyksien päässä Kontulassa lähellä metroasemaa. Kodinomainen vastaanotto on moderni ja juuri uusittu. Sydämellinen henkilökunta tarjoaa aina yksilöllistä ja laadukasta hammashoitoa. 
           </p>
 
           <h2>Pelokkaiden potilaiden suosikki</h2>
 
           <p>
-            Vastaanottomme on erityisen suosittu pelokkaiden potilaiden keskuudessa. Meillä on aina aikaa keskustella jokaisen potilaan kanssa ja antaa henkilökohtaista palvelua.
+            Vastaanottomme on erityisen suosittu pelokkaiden potilaiden keskuudessa. Meillä on aina aikaa keskustella jokaisen potilaan kanssa ja antaa henkilökohtaista palvelua. 
           </p>
         </div>
         <div class="col-12 col-lg-3 order-3">
@@ -160,11 +160,43 @@
   </div>
 
 </div>
-
     <script 
-  src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
-  integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" 
+  src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" 
+  integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" 
   crossorigin="anonymous">
+</script>
+
+    <!-- Vertically centered modal -->
+<!-- Modal -->
+<div class="modal fade" id="covid_info_modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+    <div class="modal-content bg-secondary text-light">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">COVID-19 INFO</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p>Seuraamme epidemiatilanteen kehittymistä noudattaen viranomaisohjeita ja pyrimme toiminnassamme turvaamaan sekä potilaiden että henkilökunnan terveyden. </p>
+        <p>Tulehduksista vapaan ja terveen hampaiston merkitys on tärkeä- aina ja erityisesti nyt. Suomalaisen hammashoidon hygieniataso on korkea eikä tilastojen mukaan koronavirus ole levinnyt hammaslääkärivastaanotoilla. </p>
+        <p>Jos sinulla on flunssan oireita tai olet altistunut koronainfektiolle, niin olethan yhteydessä vastaanotolle puhelimitse <a href="tel: 09 3498345">09 3498345</a>. </p>
+        <p>Pesethän kätesi huolellisesti heti vastaanotolle tultuasi.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-bs-dismiss="modal">Jatka Sivuille!</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+
+  var myModal = new bootstrap.Modal(document.getElementById('covid_info_modal'), {
+    keyboard: false
+  })
+
+  myModal.show()
+
+
 </script>
 
   </body>

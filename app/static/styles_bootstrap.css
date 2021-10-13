@@ -2,6 +2,12 @@
 	background: var(--default-color);
 }
 
+.btn-default {
+	color: white;
+	background: var(--default-color);
+	border-color: #f8f9fa;
+}
+
 .navbar {
 	padding: 0;
 }
