@@ -96,7 +96,7 @@
                 <textarea id="viesti" name="viesti" class="form-control" style="height: 95px"></textarea>
               </div>
 
-              <button type="submit" class="btn btn-primary">Lähetä</button>
+              <button type="submit" class="btn btn-light bg-default">Lähetä</button>
             
             </form>
         </div>

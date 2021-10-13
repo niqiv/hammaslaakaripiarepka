@@ -154,7 +154,7 @@
                 <textarea id="viesti" name="viesti" class="form-control" style="height: 95px"></textarea>
               </div>
 
-              <button type="submit" class="btn btn-primary">Lähetä</button>
+              <button type="submit" class="btn btn-light bg-default">Lähetä</button>
             
             </form>
         </div>
@@ -182,13 +182,13 @@
   </div>
 
   <div class="p-2 text-center">
-    <a href="https://www.kela.fi/" target="_blank">
+    <a href="https://www.vastuugroup.fi/fi-fi/palvelut/luotettava-kumppani" target="_blank">
       <img class="" src="/static/luotettavakumppani.png">
     </a>
   </div>
 
   <div class="p-2 text-center">
-    <a href="https://www.kela.fi/" target="_blank">
+    <a href="https://www.hammaslaakariliitto.fi/" target="_blank">
       <img class="" src="/static/shl_jasenlogo.jpg">
     </a>
   </div>
