@@ -19,7 +19,7 @@
         <div class="col-12">
           <h2>Hammashoitoa juuri sinulle</h2>
           <p>
-            Tarjoamme sinulle kokonaisvaltaista ja omat tarpeesi huomioivaa hoitoa. Suun ja hampaiden hyvinvointi on tärkeä vaikuttava tekijä kokonaisterveydellesi. Sännöllinen omahoito ja hampaiston perustarkastus ovat parasta hammashoitoa, ja täydentävillä röngentutkimuksilla saamme kokonaisvaltaisen kuvan hampaistosi tilanteesta. Meille on tärkeää hyvä kivunlievitys toimenpideiden aikana. Panostamme ongelmien ennaltaehkäisyyn: kotihoidon opetukseen ja fluoraukseen.
+            Tarjoamme sinulle kokonaisvaltaista ja omat tarpeesi huomioivaa hoitoa. Suun ja hampaiden hyvinvointi on tärkeä vaikuttava tekijä kokonaisterveydellesi. Säännöllinen omahoito ja hampaiston perustarkastus ovat parasta hammashoitoa, ja täydentävillä röngentutkimuksilla saamme kokonaisvaltaisen kuvan hampaistosi tilanteesta. Meille on tärkeää hyvä kivunlievitys toimenpideiden aikana. Panostamme ongelmien ennaltaehkäisyyn: kotihoidon opetukseen ja fluoraukseen.
           </p>
         </div>
 
