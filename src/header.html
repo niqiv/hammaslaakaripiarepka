@@ -1,18 +1,29 @@
-<header>
-  <div class="wrapper">
-    <h1 class="logo">
-      <span class="top-row">Hammaslääkäri</span
-      ><span class="bottom-row">Pia Repka</span>
-    </h1>
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-default border-bottom">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <span class="small">Hammaslääkäri</span><br>Pia Repka
+    </a>
 
-    <nav>
-      <ul>
-        <li class="{% if page == 'index' %}active{% endif %}"><a href="/">Etusivu</a></li>
-        <li class="{% if page == 'me' %}active{% endif %}"><a href="/me">Keitä Olemme</a></li>
-        <li class="{% if page == 'palvelut' %}active{% endif %}"><a href="/palvelut">Palvelut</a></li>
-        <li class="{% if page == 'hinnasto' %}active{% endif %}"><a href="/hinnasto">Hinnasto</a></li>
-        <li class="{% if page == 'yhteystiedot' %}active{% endif %}"><a href="/yhteystiedot">Yhteystiedot</a></li>
+    <button 
+      class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+      data-bs-target="#navbarToggler" aria-controls="navbarToggler" 
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarToggler">
+
+      <ul class="navbar-nav ms-auto">
+
+        <li><a class="nav-item nav-link{% if page == 'index' %} active{% endif %}" href="/">Etusivu</a>
+        <li><a class="nav-item nav-link{% if page == 'me' %} active{% endif %}" href="/me">Keitä Olemme</a>
+        <li><a class="nav-item nav-link{% if page == 'palvelut' %} active{% endif %}" href="/palvelut">Palvelut</a>
+        <li><a class="nav-item nav-link{% if page == 'hinnasto' %} active{% endif %}" href="/hinnasto">Hinnasto</a>
+        <li><a class="nav-item nav-link{% if page == 'yhtystiedot' %} active{% endif %}" href="/yhteystiedot">Yhteystiedot</a>
       </ul>
-    </nav>
+    </div>
+
   </div>
-</header>
+
+
+</nav>

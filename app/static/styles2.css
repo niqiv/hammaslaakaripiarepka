@@ -1,0 +1,64 @@
+html {
+  color: black;
+  background: white;
+  font-size: 100%;
+}
+
+* {
+  font-family: "Quicksand", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+
+body {
+	padding-top: 4.5rem;
+}
+
+.hero {
+  background-image: url("/static/koivut_cc_1920.jpg");
+  background-position: 50% 50%;
+  min-height: 500px;
+}
+
+.hero .text {
+	font-size: 2.5em;
+	color: white;
+	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	font-weight: 600;
+	-webkit-text-stroke: 1px grey;
+}
+
+.contact:hover {
+  background: #7bb046;
+}
+
+.contact a {
+	font-size: 1.4em;
+	font-weight: 500;
+	text-decoration: none;
+	color: white;
+}
+
+.footer p {
+	margin: 0.2em 0;
+	font-weight: 600;
+}
+
+.footer img {
+	max-width: 90%;
+}
+
+td.price::after {
+  content: "€";
+  margin-left: 0.2em;
+}
+
+.fb-page {
+	max-width: 100%;
+}
+
+a {
+  font-weight: 600;
+  color: #0d2d63;
+  text-decoration: none;
+  white-space: nowrap;
+}
