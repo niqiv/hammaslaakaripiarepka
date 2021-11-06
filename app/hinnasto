@@ -153,7 +153,6 @@
     
 <div class="footer d-flex flex-column flex-lg-row align-items-center justify-content-center justify-content-lg-between bg-default py-4 px-3 mt-3">
 
-
   <div class="p-2 text-center text-lg-start">
     <p>
       Hammaslääkäri Pia Repka<br>
@@ -163,7 +162,6 @@
       </a><br>
       Puh. <a href="tel: 09 3498345">09 3498345</a>
   </div>
-
 
   <div class="p-2 text-center">
     <a href="https://www.kela.fi/" target="_blank">
