@@ -51,6 +51,7 @@
 
         <div class="col-12 col-lg-6">
           <h2>
+
               <div id="yhteydenotto"></div>
               Jätä yhteydenottopyyntö
             </h2>

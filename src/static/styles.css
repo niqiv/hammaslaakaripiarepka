@@ -235,13 +235,14 @@ footer p {
   font-weight: 600;
 }
 
-footer img {
+footer .partner {
   max-height: 80px;
   max-width: 200px;
+  padding: 10px;
 }
 
 footer .left {text: left;}
-footer .right {text-align: right;}
+footer .right {text-align: right; float: right;}
 
 footer a {
   font-size: 1rem;
@@ -321,8 +322,8 @@ td.price::after {
 }
 
 .content div {
-  min-width: 50%;
-  margin: 8px;
+  min-width: 46%;
+  margin: 8px 2%;
 }
 
 .content div.column {
@@ -397,7 +398,7 @@ textarea {
   border: 1px solid #9bdb5b;
   border-radius: 2px;
   padding: 8px 12px;
-  height: 200px;
+  height: 150px;
   margin-bottom: 16px;
 }
 
