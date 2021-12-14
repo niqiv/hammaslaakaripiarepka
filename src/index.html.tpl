@@ -22,7 +22,7 @@
         <div class="col-12 col-lg-6 order-1 order-lg-2">
           <h2>Sydämellistä palvelua Itä-Helsingissä</h2>
           <p>
-            Hammaslääkäri Pia Repka (os. Häyrynen) palvelee hyvien kulkuyhteyksien päässä Kontulassa lähellä metroasemaa. Kodinomainen vastaanotto on moderni ja juuri uusittu. Sydämellinen henkilökunta tarjoaa aina yksilöllistä ja laadukasta hammashoitoa. 
+            Ihmisläheinen hammaslääkäri Pia Repka (os. Häyrynen) palvelee hyvien kulkuyhteyksien päässä Kontulassa lähellä metroasemaa. Kodinomainen vastaanotto on moderni ja juuri uusittu. Sydämellinen henkilökunta tarjoaa aina yksilöllistä ja laadukasta hammashoitoa. 
           </p>
 
           <h2>Pelokkaiden potilaiden suosikki</h2>
