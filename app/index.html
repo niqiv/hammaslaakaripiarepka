@@ -195,11 +195,16 @@
 
 <script type="text/javascript">
 
+
   var myModal = new bootstrap.Modal(document.getElementById('covid_info_modal'), {
     keyboard: false
   })
 
-  myModal.show()
+  if (!sessionStorage.getItem('covidinfo')) {
+    myModal.show()
+  }
+  
+  sessionStorage.setItem('covidinfo', 1)
 
 </script>
 
