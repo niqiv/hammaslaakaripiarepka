@@ -127,6 +127,7 @@ header ul li:not(:last-child) {
 
 .hero {
   background-image: url("/static/koivut_cc_1920.jpg");
+  /* Image licenced under CC0 1.0 Universal */
   background-position: 50% 50%;
   height: 300px;
   width: 100%;

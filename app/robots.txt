@@ -1,0 +1,5 @@
+# robots.txt for http://hammaslaakaripiarepka.fi/
+
+User-agent: *
+Disallow: /static
+Sitemap: https://www.hammaslaakaripiarepka.fi/sitemap.xml
