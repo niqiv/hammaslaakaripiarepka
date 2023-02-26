@@ -47,6 +47,9 @@
             Palvelemme etenkin alueita Itä-Helsingissä ja Vantaalla: Kontula, Kivikko, Kurkimäki, Mellunmäki, Myllypuro, Rajakylä, Länsimäki, Hakunila, Hakkila, Vuosaari, Malmi, Itäkeskus, Herttoniemi, Viikki, Östersundom.
           </p>
           <p>Otathan yhteyttä, olet lämpimästi tervetullut!</p>
+
+          <h2>Omavalvontasuunnitelma</h2>
+          <a href="/static/omavalvontasuunnitelma-2022.pdf">Omavalvontasuunnitelma</a>
         </div>
 
         <div class="col-12 col-lg-6">

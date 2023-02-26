@@ -9,7 +9,7 @@
   <body>
     {% include "header.html" %}
 
-    <div class="d-flex flex-column align-items-center justify-content-center px-4 py-5 mb-3 text-center hero">
+    <div class="px-4 py-5 mb-3 text-center hero">
       <div class="col-lg-4 mx-auto py-5"><span class="text">Hammaslääkäri Pia Repka</span></div>
       {% include "varaa.html" %}
     </div>
@@ -30,6 +30,12 @@
           <p>
             Vastaanottomme on erityisen suosittu pelokkaiden potilaiden keskuudessa. Meillä on aina aikaa keskustella jokaisen potilaan kanssa ja antaa henkilökohtaista palvelua. 
           </p>
+
+          <h2>COVID-19 Info</h2>
+
+          <p>Tulehduksista vapaan ja terveen hampaiston merkitys on tärkeä- aina ja erityisesti nyt. Suomalaisen hammashoidon hygieniataso on korkea eikä tilastojen mukaan koronavirus ole levinnyt hammaslääkärivastaanotoilla.
+          Jos sinulla on flunssan oireita tai olet altistunut koronainfektiolle, niin olethan yhteydessä vastaanotolle puhelimitse <a href="tel: 09 3498345">09 3498345</a>.
+          Pesethän kätesi huolellisesti heti vastaanotolle tultuasi.</p>
         </div>
         <div class="col-12 col-lg-3 order-3">
           {% include "FB.html" %}
@@ -39,8 +45,6 @@
   
     {% include "footer.html" %}
     {% include "js_loader.html" %}
-
-    {% include "covid_info.html" %}
 
   </body>
 

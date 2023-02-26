@@ -7,7 +7,7 @@ import shutil
 def main():
 
 	# Init paths, root path, and development to app
-	root_abs_path = os.path.abspath(os.getcwd())
+	root_abs_path = os.path.abspath(os.path.dirname(__file__))
 	
 	SRC = os.path.join(root_abs_path, 'src')
 	SRC_STATIC = os.path.join(SRC, 'static')
