@@ -49,7 +49,11 @@
           <p>Otathan yhteyttä, olet lämpimästi tervetullut!</p>
 
           <h2>Omavalvontasuunnitelma</h2>
-          <a href="/static/omavalvontasuunnitelma-2022.pdf">Omavalvontasuunnitelma</a>
+          <p>Omavalvonnan perusidea on siinä, että toimintayksikölle on laadittu kirjallinen suunnitelma, jonka avulla asiakkaan palveluissa esiintyvät epäkohdat ja palvelun onnistumisen kannalta epävarmat ja riskiä aiheuttavat tilanteet pystytään tunnistamaan, ehkäisemään ja korjaamaan nopeasti. Omavalvonta perustuu yksikössä toteutettavaan riskinhallintaan, jossa palveluprosesseja arvioidaan laadun ja asiakasturvallisuuden näkökulmasta. Tarkoituksena on ennaltaehkäistä riskien toteutuminen ja reagoida havaittuihin kriittisiin työvaiheisiin tai kehittämistä vaativiin asioihin suunnitelmallisesti ja nopeasti. (<a href="https://www.valvira.fi/sosiaalihuolto/sosiaalihuollon-valvonta/omavalvonta">Valvira</a>)<p>
+          
+          <p>Meidän vastaanottomme omavalvontasuunnitelman voit lukea
+          <a href="/static/omavalvontasuunnitelma-2022.pdf">täältä</a>.
+
         </div>
 
         <div class="col-12 col-lg-6">
