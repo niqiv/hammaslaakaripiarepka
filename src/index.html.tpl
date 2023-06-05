@@ -30,12 +30,6 @@
           <p>
             Vastaanottomme on erityisen suosittu pelokkaiden potilaiden keskuudessa. Meillä on aina aikaa keskustella jokaisen potilaan kanssa ja antaa henkilökohtaista palvelua. 
           </p>
-
-          <h2>COVID-19 Info</h2>
-
-          <p>Tulehduksista vapaan ja terveen hampaiston merkitys on tärkeä- aina ja erityisesti nyt. Suomalaisen hammashoidon hygieniataso on korkea eikä tilastojen mukaan koronavirus ole levinnyt hammaslääkärivastaanotoilla.
-          Jos sinulla on flunssan oireita tai olet altistunut koronainfektiolle, niin olethan yhteydessä vastaanotolle puhelimitse <a href="tel: 09 3498345">09 3498345</a>.
-          Pesethän kätesi huolellisesti heti vastaanotolle tultuasi.</p>
         </div>
         <div class="col-12 col-lg-3 order-3">
           {% include "FB.html" %}
