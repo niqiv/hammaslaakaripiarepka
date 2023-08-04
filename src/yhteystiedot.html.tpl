@@ -38,7 +38,7 @@
             Ajan voit varata nettisivuiltamme tai soittamalla numeroon <a href="tel: 09 3498345">09 3498345</a>.
           </p>
           <p>
-            Vastaanottomme sijaisee lähellä Kontulan metroasemaa osoitteessa Kontulankaari 2 A 3. Auton maksuton pysäköinti talon takana olevalla isolla parkkialueella.
+            Vastaanottomme sijaisee lähellä Kontulan metroasemaa osoitteessa Kontulankaari 2 A 3.
           </p>
           <p>
             Vastaanotollemme on esteetön pääsy tilavalla hissillä, joten meille on helppo tulla myös pyörätuolilla tai rollaattorilla. 

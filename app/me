@@ -84,8 +84,8 @@
         <div class="col-12 col-lg-8 mx-auto">
           <p>
             <figure>
-              <img src="/static/me.jpg" class="img-fluid" alt="Kuva henkilöstöstä">
-              <figcaption class="text-center">Sari, Susa, Eve ja Pia</figcaption>
+              <img src="/static/me.png" class="img-fluid" alt="Kuva henkilöstöstä">
+              <figcaption class="text-center">Eve, Sari, Pia ja Emma</figcaption>
             </figure>
           </p>
         </div>
