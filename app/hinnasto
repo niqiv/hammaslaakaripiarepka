@@ -75,7 +75,7 @@
     <div class="px-4 py-5 mb-3 text-center hero">
       <div class="col-lg-4 mx-auto py-5"><span class="text">Hinnasto</span></div>
       <div class="contact col-4 col-lg-2 mx-auto bg-default py-3">
-	<a class="" href="/yhteystiedot#yhteydenotto">Varaa aika</a>
+	<a class="" target="_blank" href="https://www.aikasi.fi/Kontula/">Varaa aika</a>
 </div>
     </div>
 
