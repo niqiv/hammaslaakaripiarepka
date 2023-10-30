@@ -116,18 +116,18 @@
               </tr>
               <tr>
                 <td>Paikkaus II-pinta</td>
-                <td class="price">140</td>
-                <td class="price">123</td>
+                <td class="price">150</td>
+                <td class="price">133</td>
               </tr>
               <tr>
                 <td>Paikkaus III-pinta</td>
-                <td class="price">164</td>
-                <td class="price">145</td>
+                <td class="price">174</td>
+                <td class="price">155</td>
               </tr>
               <tr>
                 <td>Paikkaus hammasterä ja kruunu</td>
-                <td class="price">210</td>
-                <td class="price">187</td>
+                <td class="price">220</td>
+                <td class="price">197</td>
               </tr>
               <tr>
                 <td>Puudutus</td>
@@ -135,17 +135,27 @@
                 <td class="price">26</td>
               </tr>
               <tr>
-                <td>Hammaskiven poisto 20 min</td>
-                <td class="price">129</td>
-                <td class="price">116</td>
+                <td>Hammaskiven poisto, erittäin suppea</td>
+                <td class="price">55</td>
+                <td class="price">49</td>
               </tr>
               <tr>
-                <td>Hammaskiven poisto 30 min</td>
-                <td class="price">165</td>
-                <td class="price">148</td>
+                <td>Hammaskiven poisto, suppea</td>
+                <td class="price">80</td>
+                <td class="price">71</td>
               </tr>
               <tr>
-                <td>Hammaskiven poisto 45 min</td>
+                <td>Hammaskiven poisto</td>
+                <td class="price">135</td>
+                <td class="price">122</td>
+              </tr>
+              <tr>
+                <td>Hammaskiven poisto, pitkäkestoinen</td>
+                <td class="price">185</td>
+                <td class="price">168</td>
+              </tr>
+              <tr>
+                <td>Hammaskiven poisto, erittäin pitkäkestoinen</td>
                 <td class="price">234</td>
                 <td class="price">211</td>
               </tr>
@@ -156,8 +166,8 @@
               </tr>
               <tr>
                 <td>Hampaanpoisto, tavallinen</td>
-                <td class="price">101</td>
-                <td class="price">91</td>
+                <td class="price">110</td>
+                <td class="price">100</td>
               </tr>
               <tr>
                 <td>Juurihoito per käyntikerta (hinta määräytyy ajan mukaan)</td>
