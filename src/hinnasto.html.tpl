@@ -34,10 +34,10 @@
               <tr>
                 <td>Suun perustutkimus</td>
                 <td class="price">72</td>
-                <td>56,50€ *</td>
+                <td>42€ *</td>
               </tr>
               <tr>
-                <td colspan="3" style="font-style: italic;padding-left: 20px;">* Kela korvaa 15,50 € yhdestä tutkimuskäynnistä kerran kahdessa kalenterivuodessa.</td>
+                <td colspan="3" style="font-style: italic;padding-left: 20px;">* Kela korvaa 30 € yhdestä tutkimuskäynnistä kerran kahdessa kalenterivuodessa.</td>
               </tr>
               <tr>
                 <td>Röntgenkuva</td>
