@@ -33,81 +33,86 @@
             <tbody>
               <tr>
                 <td>Suun perustutkimus</td>
-                <td class="price">72</td>
-                <td>42€ *</td>
+                <td class="price">75</td>
+                <td>45€ *</td>
               </tr>
               <tr>
                 <td colspan="3" style="font-style: italic;padding-left: 20px;">* Kela korvaa 30 € yhdestä tutkimuskäynnistä kerran kahdessa kalenterivuodessa.</td>
               </tr>
               <tr>
                 <td>Röntgenkuva</td>
-                <td class="price">45</td>
-                <td class="price">39</td>
+                <td class="price">46</td>
+                <td class="price">40</td>
               </tr>
               <tr>
                 <td>Paikkaus I-pinta</td>
-                <td class="price">84</td>
-                <td class="price">74</td>
+                <td class="price">87</td>
+                <td class="price">77</td>
               </tr>
               <tr>
                 <td>Paikkaus II-pinta</td>
-                <td class="price">150</td>
-                <td class="price">133</td>
+                <td class="price">155</td>
+                <td class="price">138</td>
               </tr>
               <tr>
                 <td>Paikkaus III-pinta</td>
-                <td class="price">174</td>
-                <td class="price">155</td>
+                <td class="price">180</td>
+                <td class="price">161</td>
               </tr>
               <tr>
                 <td>Paikkaus hammasterä ja kruunu</td>
-                <td class="price">220</td>
-                <td class="price">197</td>
+                <td class="price">240</td>
+                <td class="price">217</td>
               </tr>
               <tr>
                 <td>Puudutus</td>
-                <td class="price">29</td>
-                <td class="price">26</td>
+                <td class="price">30</td>
+                <td class="price">27</td>
               </tr>
               <tr>
                 <td>Hammaskiven poisto, erittäin suppea</td>
-                <td class="price">55</td>
-                <td class="price">49</td>
+                <td class="price">57</td>
+                <td class="price">51</td>
               </tr>
               <tr>
                 <td>Hammaskiven poisto, suppea</td>
-                <td class="price">80</td>
-                <td class="price">71</td>
+                <td class="price">83</td>
+                <td class="price">74</td>
               </tr>
               <tr>
                 <td>Hammaskiven poisto</td>
-                <td class="price">135</td>
-                <td class="price">122</td>
+                <td class="price">140</td>
+                <td class="price">127</td>
               </tr>
               <tr>
                 <td>Hammaskiven poisto, pitkäkestoinen</td>
-                <td class="price">185</td>
-                <td class="price">168</td>
+                <td class="price">192</td>
+                <td class="price">175</td>
               </tr>
               <tr>
                 <td>Hammaskiven poisto, erittäin pitkäkestoinen</td>
-                <td class="price">234</td>
-                <td class="price">211</td>
+                <td class="price">243</td>
+                <td class="price">220</td>
               </tr>
               <tr>
                 <td>Panoraamatomogrammi</td>
-                <td class="price">117</td>
-                <td class="price">108</td>
+                <td class="price">122</td>
+                <td class="price">113</td>
               </tr>
               <tr>
                 <td>Hampaanpoisto, tavallinen</td>
-                <td class="price">110</td>
-                <td class="price">100</td>
+                <td class="price">114</td>
+                <td class="price">104</td>
               </tr>
               <tr>
                 <td>Juurihoito per käyntikerta (hinta määräytyy ajan mukaan)</td>
-                <td class="price">178-305</td>
-                <td class="price">168-282</td>
+                <td class="price">151-313</td>
+                <td class="price">142-293</td>
+              </tr>
+              <tr>
+                <td>Peruuttamaton poisjäänti</td>
+                <td>35 € / 15 min</td>
+                <td></td>
               </tr>
             </tbody>
           </table>
