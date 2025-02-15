@@ -110,6 +110,11 @@
                 <td class="price">142-293</td>
               </tr>
               <tr>
+                <td>Purentakisko</td>
+                <td class="price">n. 650</td>
+                <td></td>
+              </tr>
+              <tr>
                 <td>Peruuttamaton poisjäänti</td>
                 <td>35 € / 15 min</td>
                 <td></td>
